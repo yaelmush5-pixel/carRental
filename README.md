@@ -1,1 +1,1 @@
-# carRental
+# car-rental-ny
